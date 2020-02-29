@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582696024 source:c:\lucy\uni\procedural programming\programs\hello_world\main.c
+	<stdio.h>
+	<stdlib.h>
+
